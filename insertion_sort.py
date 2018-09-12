@@ -13,5 +13,4 @@ def insertion_sort(ar):
     for cout in ar:
         print(cout, end = ' ')
             
-
 insertion_sort(arr)
